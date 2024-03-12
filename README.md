@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/priyanshuJain-32/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/priyanshuJain-32)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/priyanshuJain-32/)
-![Profile views](https://komarev.com/ghpvc/?username=priyanshuJain-32&color=lightgrey)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=priyanshuJain-32&color=lightgrey)
 
 <!--![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuJain-32&theme=dark)
 <!--
