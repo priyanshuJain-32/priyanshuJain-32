@@ -6,6 +6,8 @@
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=priyanshuJain-32&color=lightgrey) -->
 
 ![Profile views](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyanshuJain-32&theme=dark)
+
+[![Priyanshu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=priyanshuJain-32&theme=Dark)](https://leetcode.com/priyanshuJain/)
 <!--
 **priyanshuJain-32/priyanshuJain-32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
