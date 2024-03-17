@@ -14,7 +14,7 @@
 <!--![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)-->
 
 # 💻 LeetCode Stats:
-[![Priyanshu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=priyanshuJain-32&theme=Dark)](https://leetcode.com/priyanshuJain/)
+[![Priyanshu's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=priyanshuJain-32&theme=Dark)](https://leetcode.com/priyanshuJain-32/)
 
 # 📊 GitHub Stats:
 <!--<img align="right" width="300" src="https://user-images.githubusercontent.com/94922914/233508815-a208793f-7564-4ee8-9a01-1c487e22ccef.gif">-->
