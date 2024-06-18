@@ -1,4 +1,5 @@
-# 👨‍💻 Hey, I'm Priyanshu - Full-stack Developer + Data Analyst + MBA Finance + Super Friendly
+# 👨‍💻 Hey, I'm Priyanshu
+## Full-stack Developer + Data Analyst + MBA Finance + Super Friendly
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/priyanshuJain-32/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/priyanshuJain-32)
