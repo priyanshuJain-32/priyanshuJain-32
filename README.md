@@ -2,7 +2,7 @@
 ## Full-stack Developer + Data Analyst + MBA Finance = Quant
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/priyanshuJain-32/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/priyanshuJain-32)
+[![LinkedIn](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://www.linkedin.com/in/priyanshu-jain-iim/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/priyanshuJain-32/)
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=priyanshuJain-32&color=lightgrey) -->
