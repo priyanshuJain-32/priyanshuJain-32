@@ -1,6 +1,8 @@
 # 👨‍💻 Hey, I'm Priyanshu
 ## Full-stack Developer + Data Analyst + MBA Finance = Quant
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyanshuJain-32">
+</p>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/priyanshuJain-32/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://github.com/priyanshuJain-32)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/priyanshuJain-32/)
