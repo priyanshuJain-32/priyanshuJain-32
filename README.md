@@ -1,5 +1,5 @@
 # 👨‍💻 Hey, I'm Priyanshu
-## Full-stack Developer + Data Analyst + MBA Finance = Quant
+## Data Scientist @ Turing
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/priyanshuJain-32/)
 [![LinkedIn](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square)](https://www.linkedin.com/in/priyanshu-jain-iim/)
